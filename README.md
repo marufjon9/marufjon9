@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on Frontend
-- 📫 How to reach me marufabduraupov@mail.ru
+- 📫 How to reach me mabduraupovv@gmail.com
 
 <!---
 marufjon9/marufjon9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
